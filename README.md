@@ -75,10 +75,6 @@ adaboost-classification-sklearn/
 
 ### Clone Repository
 
-```bash
-git clone https://github.com/yourusername/adaboost-classification-sklearn.git
-```
-
 ### Navigate to Project
 
 ```bash
